@@ -1,0 +1,1 @@
+# mastruct-dto-mapping-scuffhold
